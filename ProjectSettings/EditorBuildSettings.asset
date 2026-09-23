@@ -9,16 +9,32 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 55daccc09a3b69647bbab145b54a3ab3
   - enabled: 1
-    path: Assets/Scenes/TestScene.unity
-    guid: 3ae1c86b26e4719439c2686089153ee4
+    path: Assets/Scenes/MainScene.unity
+    guid: 10b9d2c34f939334aa5ac6bda51b39bb
+  - enabled: 0
+    path: Assets/Scenes/FarahScene.unity
+    guid: d4e57c3e08a4d384f8eed86846a7b06e
+  - enabled: 1
+    path: Assets/Scenes/KeyScene.unity
+    guid: b1e522dd72f4e49859c5d781be33d0cf
+  - enabled: 1
+    path: Assets/Scenes/MainScene 2.unity
+    guid: 5e0c1247a2ff3a449baf565ea839ada9
+  - enabled: 1
+    path: Assets/Scenes/ChambreScene.unity
+    guid: 2153b89078eec134bb92d366557e5dfb
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
-    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2e05861145f7f8e4e88f13a9eefcc40a, type: 2}
-    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6c4f4ab68eb32044aafdc72d793daaad, type: 2}
-    com.unity.input.settings: {fileID: 11400000, guid: f8a442de0c8906f4d9c00184993fc289, type: 2}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 56a98106ce58f09459a9990007b50acb, type: 2}
-    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 43e231e21fbbf574a9be9d5f1a44b151, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2462f957eee75f940a3393fd6f039795, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 136958f90a130274b8b70a31eed352fb, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    UnityEditor.XR.VisionOS.VisionOSSettings: {fileID: 11400000, guid: 321c8a1df3997764a84de352060a9dab, type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: f32f088eaae424f638e630740df71ccb, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 428ef9aab9d1141dda1dc8c80af252da, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 58820e4bf82df2c4c8361ca05845e723, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 985fdffee33a5944396199c6b7145dd4, type: 3}
+    com.unity.polyspatial.xr.xr_settings: {fileID: 11400000, guid: 3a0101d7b2a3a5345bb42860a03096e3, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: aec960d4ecb36e54dbed5e4fa790b025, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a9a6963505ddf7f4d886008c6dc86122, type: 2}
   m_UseUCBPForAssetBundles: 0

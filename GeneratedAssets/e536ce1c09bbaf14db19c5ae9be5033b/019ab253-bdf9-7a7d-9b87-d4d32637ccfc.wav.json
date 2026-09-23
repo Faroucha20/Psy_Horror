@@ -1,0 +1,13 @@
+{
+    "asset": "e536ce1c09bbaf14db19c5ae9be5033b",
+    "fileName": "019ab253-bdf9-7a7d-9b87-d4d32637ccfc.wav",
+    "prompt": "footsteps, walking, wood surfaces, varied pace",
+    "negativePrompt": "",
+    "model": "ee31b223-3fe1-4ae6-bf54-d8a80bb4b0e1",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "f00d2ffffc8d59a71b5c7df563d7ffe3",
+    "duration": 10.0,
+    "autoTrim": false,
+    "hasReference": false
+}

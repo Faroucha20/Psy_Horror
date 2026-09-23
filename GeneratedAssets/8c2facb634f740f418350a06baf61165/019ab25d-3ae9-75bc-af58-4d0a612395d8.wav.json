@@ -1,0 +1,13 @@
+{
+    "asset": "8c2facb634f740f418350a06baf61165",
+    "fileName": "019ab25d-3ae9-75bc-af58-4d0a612395d8.wav",
+    "prompt": "steam hiss, escaping pipe, high-pressure",
+    "negativePrompt": "",
+    "model": "ee31b223-3fe1-4ae6-bf54-d8a80bb4b0e1",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "985ced4d068515bacafe59cd551c72bd",
+    "duration": 3.0,
+    "autoTrim": true,
+    "hasReference": false
+}

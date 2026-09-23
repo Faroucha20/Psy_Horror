@@ -4,9 +4,12 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - AER
-  - Gauche
-  - Droite
+  - Anchor
+  - MainVR
+  - Heure
+  - Minute
+  - Cerveau
+  - Medicament
   layers:
   - Default
   - TransparentFX
@@ -14,8 +17,8 @@ TagManager:
   - 
   - Water
   - UI
-  - Spawner Contact
-  - Placeable Surface
+  - Aiguilles
+  - Pivot
   - 
   - 
   - 
@@ -38,11 +41,14 @@ TagManager:
   - 
   - 
   - 
-  - XR Simulation
   - 
+  - PolySpatial
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: PolySpatialUI
+    uniqueID: 3425877003
     locked: 0
   m_RenderingLayers:
   - Default

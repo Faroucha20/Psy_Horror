@@ -1,0 +1,13 @@
+{
+    "asset": "d1d1fb4c807dc034094caf9eb20f407d",
+    "fileName": "019ab25e-c7bf-7f1b-83a5-706ad25a8f75.wav",
+    "prompt": "continuous steam vent, steady release, industrial environment",
+    "negativePrompt": "",
+    "model": "ee31b223-3fe1-4ae6-bf54-d8a80bb4b0e1",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "f67892ce8c9a1a837e0d053d7c119342",
+    "duration": 4.0,
+    "autoTrim": true,
+    "hasReference": false
+}

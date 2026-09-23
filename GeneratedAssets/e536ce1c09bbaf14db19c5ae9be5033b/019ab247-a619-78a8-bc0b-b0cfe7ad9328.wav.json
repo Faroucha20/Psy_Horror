@@ -1,0 +1,13 @@
+{
+    "asset": "e536ce1c09bbaf14db19c5ae9be5033b",
+    "fileName": "019ab247-a619-78a8-bc0b-b0cfe7ad9328.wav",
+    "prompt": "door unlock",
+    "negativePrompt": "",
+    "model": "ee31b223-3fe1-4ae6-bf54-d8a80bb4b0e1",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "270d4a5a376868549db30112aaf905dc",
+    "duration": 1.5,
+    "autoTrim": true,
+    "hasReference": false
+}

@@ -1,0 +1,13 @@
+{
+    "asset": "e536ce1c09bbaf14db19c5ae9be5033b",
+    "fileName": "019ab246-3169-73fc-a9bd-68d133fe9c11.wav",
+    "prompt": "grab metalic pipe",
+    "negativePrompt": "",
+    "model": "ee31b223-3fe1-4ae6-bf54-d8a80bb4b0e1",
+    "modelName": "Text to Sound",
+    "customSeed": -1,
+    "w3CTraceId": "c8cf04d745e9d567f1c1b7db8e8e5414",
+    "duration": 1.5,
+    "autoTrim": true,
+    "hasReference": false
+}
