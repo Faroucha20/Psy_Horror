@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 981e41d3f122d024d8ba2d7a610279aa
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221065
+  packageName: Didimo - 3D Female Avatars
+  packageVersion: 3.1
+  assetPath: Assets/Didimo/Characters/FemaleAvatars/FemaleModels/M003_gltf/avatar_info.json
+  uploadId: 550743

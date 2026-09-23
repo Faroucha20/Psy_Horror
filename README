@@ -1,0 +1,104 @@
+# TourTechTwist
+
+## But
+
+Créer une application en Réalité Mixte pour faire des visite guidées d'école.
+
+## Salles
+
+
+### Salle de classe
+
+- Etudiant qui fait un 6/7 et qui se prend un avert
+
+- Salle silence
+
+- Salle avec une présentation de keynote
+
+- Salle une acti et un intervenant
+
+### Bureau
+
+- Pédagos
+
+### Cantine
+
+- Gens en train de manger
+(possibilité de prendre des bouteilles ou autre dans la main)
+
+### Foyer
+
+- Gens qui dorment
+
+- Personne au piano
+
+- Gens qui joue au carte ou à un jeu
+ (faire un chateau de carte avec possiblilité de le faire tomber)
+
+
+### Hub
+
+- Possibilité de prendre un asset 3D dans l'imprimante 3D
+
+## Système
+
+- Scane des pièces
+- Instanciation des marqueurs
+- Afficher les models en fonction des marqueurs
+
+## Documentation
+
+### Expérience design document
+
+Titre : 
+Genre :
+Plateformes:
+Cible:
+
+### Contexte/Univers :
+
+L'experience plonge l'utilisateur dans un environnement naturelle réaliste. Il apparait dans une foret le long d'un chemin afin de simuler une scène quotidienne à la campagne.
+    
+
+### Déroulé /storyboard :
+
+Description de ce qui se passe depuis le moment ou la personne met le casque jusqu’à ce qu'elle l’enlève.
+
+L'utilisateur découvre un menu sur lequel il va pouvoir séléctionner un environnement, avec la main il appuis sur le bouton "foret". A cet instant il voit et entend le décors d'une foret apparaitre doucement en fade in.
+
+/!\ Intégrer les evenements sonores,  les effets visuels
+
+### Mécaniques de l'expérience:
+    
+    L'utilisateur va devoir à un moment....
+    
+    Ex: 
+    - Éviter des éléments avec son corps
+    - effectuer une combinaison de mouvement en rythme.
+    
+Elément pour guider l'utilisation du prototype
+
+- Les éléments interactifs sont en surbrillances et à leur approche un popup text localisé au dessus indique la touche 
+
+USP ( Unique Selling Proposition ) / point originaux du projet.
+
+- Propose une expérience seamless ou il est possible d'interagir à la fois avec des personnes réels et virtuelles
+- Propose une mise en scène d'une situation d'urgence mais guidée de manière ludique.
+
+### Structure de l'expérience 
+
+Ex 1 : Menu > Introduction à l'environnement /tuto >  Objectif 1  > Objectif 2 > Cinématique de fin
+Ex 2: Introduction > Exploration > evenement > Objectif > Résolution / Outro
+
+### Controle:
+
+ De quel manière le joueur va t-il interagir avec  le jeu. Manette? main? regard? voix?   
+ 
+### Réfléxion UI :
+
+    De quelle manière de diffuse mes informations dans l'expérience
+Audio pour les informations de situation
+Textuel localisé pour mes controles - touches etc...
+
+### Répartition des taches:
+    

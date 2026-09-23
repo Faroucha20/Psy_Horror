@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d82af0f2ccda53d4fa9a906853349a55
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 3c5b147ded58bab4e93da3717db050ac, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 221065
+  packageName: Didimo - 3D Female Avatars
+  packageVersion: 3.1
+  assetPath: Assets/Didimo/Characters/FemaleAvatars/FemaleModels/M009_gltf/deformation_matrix.dmx
+  uploadId: 550743
